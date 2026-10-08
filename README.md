@@ -18,6 +18,7 @@ evaluation, and deployment with Streamlit.
 ![Home screen](Home.png)
 
 ### Recommendation Results
+
 ![Recommendation results](Recomendation.png)
 
 ### Personalized Recommendations
